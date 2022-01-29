@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi, I'm Naveen 👋
+
+![](https://komarev.com/ghpvc/?username=nobodyme&color=brightgreen)
 
 <!--
 **nobodyme/nobodyme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
