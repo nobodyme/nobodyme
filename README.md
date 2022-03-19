@@ -1,4 +1,5 @@
-<-- ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=000000&lines=Hi+%F0%9F%91%8B%2C+I+am+Naveen)](https://git.io/typing-svg) -->
+<!-- 
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&color=000000&lines=Hi+%F0%9F%91%8B%2C+I+am+Naveen)](https://git.io/typing-svg) -->
 
 ### Hi, I'm Naveen
 
